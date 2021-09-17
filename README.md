@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iHarshitKumar
-- 👀 I’m interested in ... Database Job
+- 👀 I’m interested in ... Salesforce | Database
 - 🌱 I’m currently learning ... Cybersecurity and Cloud technology
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ...  Salesforce
 - 📫 How to reach me ... itsharshitkumar@gmail.com
 
 <!---
